@@ -5,7 +5,7 @@
 
 <h1>Welcome Divya</h1>
 
-<p>Congratulationd</p>
+<p>Congratulations</p>
 
 </body>
 </html>
